@@ -1,0 +1,27 @@
+
+.high{
+  text-align: right;
+  rotate: -90deg;
+}
+
+.pressure{
+  text-align: center;
+  rotate: -90deg;
+}
+
+.low{
+  text-align: left;
+  rotate: -90deg;
+}
+
+
+.box{
+  bottom: 100px;
+}
+
+.table{
+  width: 275px;
+  height: 650px;
+  margin-top: 100%;
+  color: white;
+}
